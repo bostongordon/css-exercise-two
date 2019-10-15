@@ -1,6 +1,15 @@
 body {
-  background-color: #ff0000;
+  background-color: #ffffff;
   color: #0000FF;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 2em; /* 32px */
+}
+
+p {
+  font-size: 100%; /* 16px */
 }
 
 nav {
@@ -50,3 +59,14 @@ article {
   margin: 0 auto;
   width: 50%;
 }
+
+h1 {
+  line-height: normal;
+}
+
+a {
+  text-decoration: none;
+  text-decoration: underline;
+  text-decoration: line-through;
+}
+a:hover { color:#000000; } /* mouse over */
