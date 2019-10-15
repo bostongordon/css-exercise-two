@@ -61,12 +61,10 @@ article {
 }
 
 h1 {
-  line-height: normal;
+  line-height: 1.5em;
 }
 
 a {
   text-decoration: none;
-  text-decoration: underline;
-  text-decoration: line-through;
 }
 a:hover { color:#000000; } /* mouse over */
